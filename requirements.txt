@@ -1,5 +1,5 @@
 streamlit==1.26.0
-speechrecognition==3.8.1
+SpeechRecognition==3.8.1
 gtts==2.3.2
 googletrans==4.0.0-rc1
-Pyaudio
+pyaudio==0.2.14
